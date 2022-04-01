@@ -1,0 +1,10 @@
+.row {
+    margin-top: 200px;
+    font-size: 60px;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+body {
+    background-color: rgb(29, 156, 246);
+}
